@@ -1,0 +1,31 @@
+body {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+
+.navbar-brand {
+    color: #000000 !important;
+}
+
+.jumbotron {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.message_body {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.message_viewed {
+    background-color: #d9edf7;
+}
+
+#symbolsLeftInfo{
+    margin-bottom: 10px;
+}
