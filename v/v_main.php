@@ -45,7 +45,7 @@
                     <ul class="nav navbar-nav">
                         <!--<li class="active"><a href="#">Home</a></li>-->
                         <?php foreach ($menu  as $menu_item_title => $menu_link) :?>
-                            <li ><a href="<?=$menu_link?>"><?=$menu_item_title?></a></li>
+                            <li><a href="<?=$menu_link?>"><?=$menu_item_title?></a></li>
                         <?php endforeach; ?>
                     </ul>
 
